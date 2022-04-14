@@ -1,0 +1,17 @@
+C:\Users\DELL\OneDrive\Bureau\University\GL3\GL3-Sem2\PPP\Project\PPPProject\PPPProject\bin\Debug\net6.0-windows\PPPProject.exe
+C:\Users\DELL\OneDrive\Bureau\University\GL3\GL3-Sem2\PPP\Project\PPPProject\PPPProject\bin\Debug\net6.0-windows\PPPProject.deps.json
+C:\Users\DELL\OneDrive\Bureau\University\GL3\GL3-Sem2\PPP\Project\PPPProject\PPPProject\bin\Debug\net6.0-windows\PPPProject.runtimeconfig.json
+C:\Users\DELL\OneDrive\Bureau\University\GL3\GL3-Sem2\PPP\Project\PPPProject\PPPProject\bin\Debug\net6.0-windows\PPPProject.dll
+C:\Users\DELL\OneDrive\Bureau\University\GL3\GL3-Sem2\PPP\Project\PPPProject\PPPProject\bin\Debug\net6.0-windows\PPPProject.pdb
+C:\Users\DELL\OneDrive\Bureau\University\GL3\GL3-Sem2\PPP\Project\PPPProject\PPPProject\obj\Debug\net6.0-windows\PPPProject.vbproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Bureau\University\GL3\GL3-Sem2\PPP\Project\PPPProject\PPPProject\obj\Debug\net6.0-windows\PPPProject.Form1.resources
+C:\Users\DELL\OneDrive\Bureau\University\GL3\GL3-Sem2\PPP\Project\PPPProject\PPPProject\obj\Debug\net6.0-windows\PPPProject.vbproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Bureau\University\GL3\GL3-Sem2\PPP\Project\PPPProject\PPPProject\obj\Debug\net6.0-windows\PPPProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Bureau\University\GL3\GL3-Sem2\PPP\Project\PPPProject\PPPProject\obj\Debug\net6.0-windows\PPPProject.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Bureau\University\GL3\GL3-Sem2\PPP\Project\PPPProject\PPPProject\obj\Debug\net6.0-windows\PPPProject.AssemblyInfo.vb
+C:\Users\DELL\OneDrive\Bureau\University\GL3\GL3-Sem2\PPP\Project\PPPProject\PPPProject\obj\Debug\net6.0-windows\PPPProject.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Bureau\University\GL3\GL3-Sem2\PPP\Project\PPPProject\PPPProject\obj\Debug\net6.0-windows\PPPProject.dll
+C:\Users\DELL\OneDrive\Bureau\University\GL3\GL3-Sem2\PPP\Project\PPPProject\PPPProject\obj\Debug\net6.0-windows\refint\PPPProject.dll
+C:\Users\DELL\OneDrive\Bureau\University\GL3\GL3-Sem2\PPP\Project\PPPProject\PPPProject\obj\Debug\net6.0-windows\PPPProject.pdb
+C:\Users\DELL\OneDrive\Bureau\University\GL3\GL3-Sem2\PPP\Project\PPPProject\PPPProject\obj\Debug\net6.0-windows\PPPProject.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Bureau\University\GL3\GL3-Sem2\PPP\Project\PPPProject\PPPProject\obj\Debug\net6.0-windows\ref\PPPProject.dll
